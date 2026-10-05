@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.spaceship.com/domain-search/?query=olibea&beast=false&tab=domains",
+      "permanent": false
+    }
+  ]
+}
